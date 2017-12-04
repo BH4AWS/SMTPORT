@@ -20,4 +20,6 @@ We mainly introduce one type of file and folder structure as follows:
 3. the file of 2.6.28.6-icse11.SMTibeaV1-150m.out.1: the first evaluation result of the linux SPL for SMTIBEAv1 variant, the terminal time is 15 minutes.
 4. the folder of Merge_result: we merge the results from four SMTIBEA variants for different SPLs in terms of Pareto dominance.
 
-Attention please: the 2.6.28.6-icse11 is the detail name of Linux SPL.
+Attention please: 
+1. the 2.6.28.6-icse11 is the detail name of Linux SPL.
+2. the Strings of 50m, 100m, 150m, 200m, 250m and 300m in different file name present the terminal time of 5, 10, 15, 25 and 30 minutes, respectively.
